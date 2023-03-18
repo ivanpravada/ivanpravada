@@ -1,7 +1,7 @@
 <img src="https://github.com/ivanpravada/ivanpravada/blob/main/git_logo.png"/></h1>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/ivan-pravada-b88a42269/">
+  <a href="https://www.linkedin.com/in/ivan-pravada-b88a42269/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:vano.provada@gmail.com">
