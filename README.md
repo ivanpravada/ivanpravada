@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/static/v1?label=Linkedin&message=Ivan%20Pravada&color=72086F&style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:vano.provada@gmail.com">
-    <img src="https://img.shields.io/static/v1?label=Linkedin&message=vano.provada@gmail.com&color=72086F&style=for-the-badge&logo=linkedin" alt="Gmail"/>
+    <img src="https://img.shields.io/static/v1?label=Linkedin&message=vano.provada@gmail.com&color=72086F&style=for-the-badge&logo=gmail" alt="Gmail"/>
   </a>
   <a href="https://t.me/Ivan_0990">
     <img src="https://img.shields.io/static/v1?label=Telegram&message=@Ivan_0990&color=72086F&style=for-the-badge&logo=telegram" alt="Telegram"/>
